@@ -1,1 +1,4 @@
-Hello World j'écris ceux dont j'ai envie, car j'en ai envie, l'envie et une envie, d'être en vie.
+Hello World ! Je m'appelle Maxime j'ai 24ans et je suis en formation Développeur web et web mobile ! 
+A la base passionné par les jeux vidéos et la musique, je me suis découvert une nouvelle passion: Coder ! 
+
+TRAVAUX EN COURS !
